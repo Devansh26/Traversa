@@ -1,0 +1,128 @@
+#mc_embed_signup
+
+  {
+
+    background: #1d1d29 !important;
+
+    color: #ffffff !important;
+
+    font-size: 1.2em !important;
+
+    width:100% !important;
+
+    margin: 10px auto !important;
+
+
+
+  }
+
+  #mc_embed_signup form
+
+  {
+
+    padding: 0!important;
+
+  }
+
+  #mc_embed_signup h2
+
+  {
+
+    color: #ffffff !important;
+
+    background: none !important;
+
+    text-align: center !important;
+
+    padding: 50px 0 0 0 !important;
+
+    font-weight: 700 !important;
+
+    font-size: 1.5em !important;
+
+    line-height: 1.2em !important;
+    
+
+  }
+
+#mc_embed_signup .mc-field-group input
+{
+  width:100%!important;
+}
+
+	#mc_embed_signup input
+
+  {
+
+    background-color: #2b2a3a !important;
+
+    border:0px solid #3e4959 !important;
+
+    color: #ffffff !important;
+
+    font-weight: 300 !important;
+
+    height:30px !important;
+    
+    -webkit-border-radius: 50px !important;
+
+    -moz-border-radius: 50px !important;
+
+    border-radius: 50px !important;
+
+  }
+
+  #mc_embed_signup .button
+
+  {
+
+    color: #ffffff !important;
+
+    background: #d73c5c !important;
+
+    width: 90% !important;
+
+    margin: 30px 5%!important;
+
+    padding: 0 30px 0 30px!important;
+    
+    border: none !important;
+
+    webkit-border-radius: 50px !important;
+
+    -moz-border-radius: 50px !important;
+
+    border-radius: 50px !important;
+
+    font-size: 1em !important;
+
+    padding: 10px 0 40px!important;
+
+    text-transform: uppercase !important;
+    
+    display: inline-block !important;
+    
+
+
+  }
+
+  #mc_embed_signup .mc-field-group
+
+  {
+
+    padding: 0 !important;
+
+    width:90% !important;
+    
+    margin: 0 auto!important;
+
+  }
+
+  #mc_embed_signup .mc-field-group label
+
+  {
+
+    padding: 20px 20px 20px 0!important;
+    font-size: 16px;
+
+  }
